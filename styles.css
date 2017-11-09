@@ -97,6 +97,12 @@ div.footersection{
   clear: both;
 }
 
+div.carousel{
+  width: 100%;
+  max-width: 1030px;
+  box-sizing: border-box;
+}
+
 div.article{
   width: 65%;
   float: left;

@@ -159,6 +159,83 @@ div.attorney{
   margin-bottom: 20px;
 }
 
+div.attorneypg{
+  text-align: center;
+  box-sizing: border-box;
+  width: 50%;
+  min-width: 300px;
+  float: left;
+}
+
+div.attorneytext{
+  float: left;
+  box-sizing: border-box;
+  width: 60%;
+}
+
+
+img.pgheadshot{
+  float: left;
+  width: 200px;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+a.attorneybutton{
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  margin-top: 0px;
+  text-align: left;
+  color: #646c70;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+}
+
+a:hover.attorneybutton{
+  color: #b5121b;
+}
+
+p.attorney{
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: left;
+  color: #646c70;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+p.attorneystrong{
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  color: #646c70;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+a.practicelink{
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  font-size: 19px;
+  line-height: 24px;
+  text-align: left;
+  color: #4d4e51;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  display: block;
+  font-weight: bold;
+}
+
 h1{
   font-size: 26px;
   text-align: center;
@@ -312,9 +389,15 @@ img.logo{
 
 img.hero{
   width: 100%;
-  max-width: 1030px;
+  max-width: 1000px;
   box-sizing: border-box;
 }
+
+div.carousel{
+
+}
+
+
 
 
 img.languagebuttons{
